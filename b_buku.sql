@@ -40,9 +40,9 @@ CREATE TABLE `db_koleksibuku` (
 --
 
 INSERT INTO `db_koleksibuku` (`id_buku`, `judul_buku`, `pengarang`, `tahun_terbit`, `kategory`) VALUES
-(1, 'senja', 'rizal', 2021, 'filosofi'),
-(2, 'terbit', 'dhastin', 2011, 'sastra'),
-(3, 'Ita Forever', 'Rizal', 2021, 'Romansa');
+(1, 'Senja', 'Rizal', 2021, 'filosofi'),
+(2, 'Terbit', 'Dhastin', 2011, 'sastra'),
+(3, 'Falling in Love', 'M2R', 2021, 'Romansa');
 
 --
 -- Indexes for dumped tables
